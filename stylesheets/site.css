@@ -981,7 +981,7 @@ h1, h2, h3, h4, h5 {
 
 /* line 837, site.css.scss */
 header {
-  background: url("https://s3.amazonaws.com/strayhouse/header-4.jpg") center bottom;
+  background: url("/images/header-4.jpg") center bottom;
   background-size: cover;
   min-height: 100%; }
 
@@ -1054,17 +1054,17 @@ header .intro {
 
 /* line 910, site.css.scss */
 #our-story .image {
-  background: url(https://s3.amazonaws.com/strayhouse/our-story.jpg) center center;
+  background: url(/images/our-story.jpg) center center;
   background-size: cover; }
 
 /* line 915, site.css.scss */
 #locations .image {
-  background: url(https://s3.amazonaws.com/strayhouse/locations.jpg) center center;
+  background: url(/images/mobile.jpg) center center;
   background-size: cover; }
 
 /* line 920, site.css.scss */
 #menu .image {
-  background: url(https://s3.amazonaws.com/strayhouse/menu-3.jpg) center center;
+  background: url(/images/menu-3.jpg) center center;
   background-size: cover; }
 
 /* line 925, site.css.scss */
@@ -1122,12 +1122,12 @@ header .intro {
 
 /* line 979, site.css.scss */
 #events .image {
-  background: url(https://s3.amazonaws.com/strayhouse/events.jpg) center center;
+  background: url(/images/events.jpg) center center;
   background-size: cover; }
 
 /* line 984, site.css.scss */
 .full-break {
-  background: url(https://s3.amazonaws.com/strayhouse/full.jpg) center center;
+  background: url(/images/full.jpg) center center;
   width: 100%;
   padding: 25rem 0; }
 
