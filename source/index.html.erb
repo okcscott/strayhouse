@@ -1,0 +1,120 @@
+---
+title: Welcome to Middleman
+---
+
+<div id="our-story" class="content-blocks">
+  <div class="wrapper">
+    <div class="content block">
+      <h2>Our Story</h2>
+      <hr>
+      <p>Hi, coffee lover. My name is Annie and my husband is Geoff. We're so glad you're here. We'd love to tell you more about how Strayhouse began.</p>
+      <p>When we moved to Western Oklahoma a few years ago, we were sad to find very few places that offered craft coffees. We decided to pursue Geoff's dream of opening a coffee shop. We liked the aspect of being mobile and discussed a coffee food truck out of an old Airstream trailer.</p>
+      <p>In May of 2015 we had a one month old baby and went on the hunt for this vintage trailer. The Airstream dream became a second (and maybe even more demanding baby) than our human was. We put in the hours, the sweat, the fear, the hope and on December 1st, 2015 we parked at our first event.</p>
+      <p>We've been caffeinating Clinton and the surrounding area ever since. We've even bought an old building downtown to help handle the demand.</p>
+      <p><b>We will open our physical location later in 2016.</b></p>
+      <div class="tagline">Please let us know you and serve you excellent coffee. Happy trails.</div>
+      <p>-- Geoff and Annie Park , Owners/Operators Strayhouse Espresso</p>
+    </div>
+    <div class="image block">
+    </div>
+    <img src="https://s3.amazonaws.com/strayhouse/our-story.jpg" class="u-max-full-width show-on-mobile-only">
+  </div>
+</div>
+
+<div id="locations" class="content-blocks">
+  <div class="wrapper">
+    <div class="image block">
+    </div>
+    <div class="content block">
+      <h2>Locations</h2>
+      <hr>
+      <div class="container">
+        <div class="row">
+          <div class="one-half column">
+            <h5>Brick & Mortar</h5>
+            <p>
+              <b>Clinton, OK</b><br>
+              521 NW 81st St<br>
+              405.555.1234<br>
+              <div class="tagline">Opening Fall 2016</div>
+            </p>
+          </div>
+          <div class="one-half column">
+            <h5>Mobile Truck</h5>
+            <p>
+              We are wherever you are. We are available for birthday parties, and whatever else you need.
+              <div class="tagline"><a href="#events">Book Us For Events</a></div>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <img src="https://s3.amazonaws.com/strayhouse/locations.jpg" class="u-max-full-width show-on-mobile-only">
+  </div>
+</div>
+
+<div id="menu" class="content-blocks">
+  <div class="wrapper">
+    <div class="content block">
+      <h2>Menu</h2>
+      <hr>
+      <ul>
+        <li class="prices">
+          <h4>
+            12<sup>oz</sup>
+            <span> / </span>
+            16<sup>oz</sup>
+            <span> / </span>
+            24<sup>oz</sup>
+          </h4>
+        </li>
+        <% data.menu.items.each do |item| %>
+          <li class=<%= item.klass %>>
+            <h3><%= item.title %><small><%= item.subtitle %></small></h3>
+            <h4>
+              <% item.prices.each_with_index do |price, index| %>
+                <%= price.split(".")[0] %><sup><%= price.split(".")[1] %></sup>
+                <% if (index+1) < item.prices.count %>
+                <span> / </span>
+                <% end %>
+              <% end %>
+            </h4>
+            <% if item.subsubtitle %>
+            <small class="subsubtitle"><%= item.subsubtitle %></small>
+            <% end %>
+          </li>
+        <% end %>
+      </ul>
+      <p><b>Syrups:</b> <br>
+        Vanilla, Hazelnut, Toffee,agave, coconut, irish cream, macadamia, peppermint, raspberry, toasted marshmallow, and Maple.<br>
+        <b>Sugar free:</b> <br>
+        raspberry, vanilla, hazelnut, and caramel <br>
+        <b>Sauces:</b> <br>
+        Chocolate, White Chocolate, Caramel, and Pumpkin Spice
+      </p>
+    </div>
+    <div class="image block">
+    </div>
+    <img src="https://s3.amazonaws.com/strayhouse/menu-3.jpg" class="u-max-full-width show-on-mobile-only">
+  </div>
+</div>
+
+<div id="events" class="content-blocks">
+  <div class="wrapper">
+    <div class="image block">
+    </div>
+    <div class="content block">
+      <h2>Events</h2>
+      <hr>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      </p>
+      <div class="tagline">Book Us Now!</div>
+    </div>
+    <img src="https://s3.amazonaws.com/strayhouse/events.jpg" class="u-max-full-width show-on-mobile-only">
+  </div>
+</div>
+
+<div class="full-break">
+</div>

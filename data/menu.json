@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "title":    "Brewed Coffee",
+      "subtitle": "also Decaf",
+      "prices": ["4.00", "---", "6.00"]
+    },
+    {
+      "title":    "Butter Blend",
+      "prices":   ["4.50", "---", "6.50"]
+    },
+    {
+      "title":    "Cafe Au Lait",
+      "prices":   ["4.50", "---", "6.50"]
+    },
+    {
+      "title":    "Latte",
+      "prices":   ["5.00", "---", "7.00"]
+    },
+    {
+      "title":    "Latte Macchiato",
+      "prices":   ["5.00", "---", "7.00"]
+    },
+    {
+      "title":    "Americano",
+      "prices":   ["4.00", "---", "6.00"]
+    },
+    {
+      "title":    "Chai Latte",
+      "prices":   ["5.00", "---", "7.00"]
+    },
+    {
+      "title":    "Hot Chocolate",
+      "prices":   ["5.00", "---", "7.00"]
+    },
+    {
+      "title":    "Hot Tea",
+      "prices":   ["4.00", "---", "6.00"]
+    },
+    {
+      "title":    "Iced Latte",
+      "prices":   ["---", "6.00", "7.00"]
+    },
+    {
+      "title":       "Frappuccino",
+      "subsubtitle": "Java Chip, Mocha, White Mocha, Salted Caramel, Spiced Chai, Vanilla",
+      "prices":      ["---", "6.00", "7.00"],
+      "klass":       "subsubtitle"
+    },
+    {
+      "title":       "Smoothie",
+      "subsubtitle": "4 Berry, Lemon, all are 100% fruit",
+      "prices":      ["---", "6.00", "7.00"],
+      "klass":       "subsubtitle"
+    }
+  ]
+}
