@@ -5,14 +5,7 @@ title: Strayhouse Coffee, Clinton, OK
 <div id="our-story" class="content-blocks">
   <div class="wrapper">
     <div class="content block">
-      <h2>Our Story</h2>
-      <hr>
-      <p>Hi, coffee lover. My name is Annie and my husband is Geoff. We're so glad you're here. We'd love to tell you more about how Strayhouse began.</p>
-      <p>When we moved to Western Oklahoma a few years ago, we were sad to find very few places that offered craft coffees. We decided to pursue Geoff's dream of opening a coffee shop. We liked the aspect of being mobile and discussed a coffee food truck out of an old Airstream trailer.</p>
-      <p>In May of 2015 we had a one month old baby and went on the hunt for this vintage trailer. The Airstream dream became a second (and maybe even more demanding baby) than our human was. We put in the hours, the sweat, the fear, the hope and on December 1st, 2015 we parked at our first event.</p>
-      <p>We've been caffeinating Clinton and the surrounding area ever since. We've even bought an old building downtown to help handle the demand.</p>
-      <div class="tagline">Please let us know you and serve you excellent coffee. Happy trails.</div>
-      <p>-- Geoff and Annie Park , Owners/Operators Strayhouse Espresso</p>
+      <%= partial "our_story" %>
     </div>
     <div class="image block">
     </div>
@@ -25,27 +18,7 @@ title: Strayhouse Coffee, Clinton, OK
     <div class="image block">
     </div>
     <div class="content block">
-      <h2>Locations</h2>
-      <hr>
-      <div class="container">
-        <div class="row">
-          <div class="one-half column">
-            <h5>Brick & Mortar</h5>
-            <p>
-              <b>Clinton, OK</b><br>
-              118 S 5th street<br>
-              580-450-2527<br>
-            </p>
-          </div>
-          <div class="one-half column">
-            <h5>Mobile Truck</h5>
-            <p>
-              We are wherever you are. We are available for birthday parties, and whatever else you need.
-              <div class="tagline"><a href="#events">Book Us For Events</a></div>
-            </p>
-          </div>
-        </div>
-      </div>
+      <%= partial "location" %>
     </div>
     <img src="/images/mobile.jpg" class="u-max-full-width show-on-mobile-only">
   </div>
@@ -54,42 +27,7 @@ title: Strayhouse Coffee, Clinton, OK
 <div id="menu" class="content-blocks">
   <div class="wrapper">
     <div class="content block">
-      <h2>Menu</h2>
-      <hr>
-      <ul>
-        <li class="prices">
-          <h4>
-            12<sup>oz</sup>
-            <span> / </span>
-            16<sup>oz</sup>
-            <span> / </span>
-            24<sup>oz</sup>
-          </h4>
-        </li>
-        <% data.menu.items.each do |item| %>
-          <li class=<%= item.klass %>>
-            <h3><%= item.title %><small><%= item.subtitle %></small></h3>
-            <h4>
-              <% item.prices.each_with_index do |price, index| %>
-                <%= price.split(".")[0] %><sup><%= price.split(".")[1] %></sup>
-                <% if (index+1) < item.prices.count %>
-                <span> / </span>
-                <% end %>
-              <% end %>
-            </h4>
-            <% if item.subsubtitle %>
-            <small class="subsubtitle"><%= item.subsubtitle %></small>
-            <% end %>
-          </li>
-        <% end %>
-      </ul>
-      <p><b>Syrups:</b> <br>
-        Vanilla, Hazelnut, Toffee,agave, coconut, irish cream, macadamia, peppermint, raspberry, toasted marshmallow, and Maple.<br>
-        <b>Sugar free:</b> <br>
-        raspberry, vanilla, hazelnut, and caramel <br>
-        <b>Sauces:</b> <br>
-        Chocolate, White Chocolate, Caramel, and Pumpkin Spice
-      </p>
+      <%= partial "menu" %>
     </div>
     <div class="image block">
     </div>
@@ -102,7 +40,8 @@ title: Strayhouse Coffee, Clinton, OK
     <div class="image block">
     </div>
     <div class="content block">
-      <h2>Events</h2>
+      <%= partial "events" %>
+      <!-- <h2>Events</h2>
       <hr>
       <p>
         Does your community or organization have an upcoming event? We'd love to be there to bring the funky and the coffee.
@@ -110,7 +49,7 @@ title: Strayhouse Coffee, Clinton, OK
       <p>
         The Strayhouse Airstream is also available for your private event such as weddings, birthdays, and retail or cooperate functions. Please call us at 580-450-2527 for more information.
       </p>
-      <div class="tagline">Book Us Now!</div>
+      <div class="tagline">Book Us Now!</div> -->
     </div>
     <img src="/images/events.jpg" class="u-max-full-width show-on-mobile-only">
   </div>

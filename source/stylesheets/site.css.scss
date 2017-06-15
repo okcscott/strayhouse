@@ -877,6 +877,11 @@ header .intro {
   margin-top: 10rem;
 }
 
+.content-blocks a {
+  text-decoration: none;
+  color: #3498DB;
+}
+
 .content-blocks img {
   display: block;
 }
@@ -890,12 +895,13 @@ header .intro {
   text-align: center;
 }
 
-.content-blocks .block.content .tagline {
+.content-blocks .block.content .tagline, .content-blocks .block.content blockquote {
   color: #3498DB;
   text-transform: uppercase;
   font-weight: 700;
   font-family: 'Roboto Slab', serif;
   text-align: center;
+  margin: 0;
 }
 
 .content-blocks .block.content hr {
@@ -1116,18 +1122,6 @@ footer hr {
     width: 40%;
     text-align: center;
     padding: 20rem 10rem;
-  }
-
-  #locations .content {
-    width: 50%;
-  }
-
-  #menu .content {
-    width: 60%;
-  }
-
-  #locations .content.block {
-    padding: 20rem 0;
   }
 
   #menu h3 {
