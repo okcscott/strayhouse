@@ -2,6 +2,6 @@
 
 ---
 
-Put a little blurb here about how great your menu is. Scones? Got 'em. Coffees? Got 'em. Other stuff you probably want from a coffee shop? Maybe!
+Strayhouse specializes in health conscious comfort food from scratch, fresh baked sweets, specialty coffees, tea and non-coffee drinks, Local OK beer, and wine! Our menu changes seasonally, so check out the link below for our current offerings. 
 
 [Download our menu](/images/Menu-Retail.PDF)
