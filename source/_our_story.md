@@ -2,14 +2,13 @@
 
 ---
 
-Hi, coffee lover. My name is Annie and my husband is Geoff. We're so glad you're here. We'd love to tell you more about how Strayhouse began.
+Strayhouse Kitchen + Coffee kicked off in Fall of 2015 using the name "Caravan Coffee Company", opperating as a food truck out of a 1972 Airstream Land Yacht. After the owners ran into a little "applied education in trademark law", Caravan Coffee swiftly became Strayhouse Espresso & Bakery. 
+Finally, Strayhouse Espresso & Bakery became Strayhouse Kitchen + Coffee when it purchased a vacant lumber yard in Clinton, OK's historic downtown in January of 2016, shortly after retiring their food truck. 
 
-When we moved to Western Oklahoma a few years ago, we were sad to find very few places that offered craft coffees. We decided to pursue Geoff's dream of opening a coffee shop. We liked the aspect of being mobile and discussed a coffee food truck out of an old Airstream trailer.
+Strayhouse Kitchen + Coffee dilligently restored the 1907 hardware store building into it's Main Dining, Kitchen, Espresso Bar, and Office. Using as much of the original materials found on the property and structure, Strayhouse designed the building to resemble a modern take on the renderings they found of the building's original remodel, circa 1920's, completed by LongBell Lumber Company of Kansas City, MO. Stop by and check out the original 1907 exposed trusses that hang nearly 12 feet above the main dining, as well as the timber frame, trim, and tables constructed out of century old reclaimed wood. 
 
-In May of 2015 we had a one month old baby and went on the hunt for this vintage trailer. The Airstream dream became a second (and maybe even more demanding baby) than our human was. We put in the hours, the sweat, the fear, the hope and on December 1st, 2015 we parked at our first event.
+During the restoration, Strayhouse brought on Toyie Kellogg as it's "Kitchen Magician", where she has been dropping high quality, delicious breakfast items, sandwiches, salads, and soups on Western Oklahoman's, I40 cross country travelors, and Route 66 road trippers ever since. 
 
-We've been caffeinating Clinton and the surrounding area ever since. We've even bought an old building downtown to help handle the demand.
-
-> Please let us know you and serve you excellent coffee. Happy trails.
+> We hope you will come and #StrayAwhile!
 
 -- Geoff and Annie Park , Owners/Operators Strayhouse Espresso
