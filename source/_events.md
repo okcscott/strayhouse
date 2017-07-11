@@ -1,8 +1,13 @@
 ## Events
 ---
 
-Does your community or organization have an upcoming event? We'd love to be there to bring the funky and the coffee.
+Strayhouse is available for events and catering! 
 
-The Strayhouse Airstream is also available for your private event such as weddings, birthdays, and retail or cooperate functions. Please call us at 580-450-2527 for more information.
+Rent the historic Strayhouse Main Dining and Patio, and/or "Gather Room" for weddings, parties, and cooperate functions! 
+
+Contact events@strayhouse.coffee for building rental pricing, options, and availability. 
+
+Contact toyie.kellogg@strayhouse.coffee with catering questions. 
+
 
 > [Book us now](http://events.strayhouse.coffee)!
