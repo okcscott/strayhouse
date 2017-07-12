@@ -11,4 +11,3 @@ During the restoration, Strayhouse brought on Toyie Kellogg as it's "Kitchen Mag
 
 > We hope you will come and #StrayAwhile!
 
--- Geoff and Annie Park , Owners/Operators Strayhouse Espresso
