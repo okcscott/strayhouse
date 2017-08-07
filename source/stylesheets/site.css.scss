@@ -875,6 +875,10 @@ header .intro {
   text-align: center;
   padding: 5rem;
   margin-top: 10rem;
+
+  img {
+    width: 200px;
+  }
 }
 
 .content-blocks a {
@@ -1096,12 +1100,18 @@ footer hr {
 /* Mobile first queries */
 
 /* Larger than mobile */
-@media (min-width: 400px) {}
+@media (min-width: 400px) {
+}
 
 /* Larger than phablet */
 @media (min-width: 550px) {
   .show-on-mobile-only {
     display: none !important;
+  }
+
+
+  header .intro img {
+    width: 400px;
   }
 }
 
