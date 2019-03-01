@@ -1,13 +1,15 @@
-## Events
+## Our Partners
 ---
 
-Strayhouse is available for events and catering!
+Strayhouse is proud to share the property with some pretty spiffy neighbors. Check them out and support local business!   
 
-Rent the historic Strayhouse Main Dining and Patio, and/or "Gather Room" for weddings, parties, and cooperate functions!
+Casual Coffee Roasters for all your speciallty coffee needs! 
+https://casualcoffeeroasters.com
 
-Contact events@strayhouse.coffee for building rental pricing, options, and availability.
+Folk Yoga to work on that flow game! 
+https://www.facebook.com/FolkYogaClinton/
 
-Contact toyie.kellogg@strayhouse.coffee with catering questions.
+Humble Home Designs to upgrade that domicile situation!
+https://www.facebook.com/humbleplushome/
 
-
-> [Book us now](mailto:events@strayhouse.coffee)!
+> [Drop a line to Humble Home Designs!](mailto:annie@humblehomebuilds.com)!
